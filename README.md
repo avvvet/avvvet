@@ -5,7 +5,7 @@ The product comes first , not the code !
 You have critical project , you want to market it fast , you want to make value , I am the right person. 
 
 I use golang or nodejs to write product (not code) 
-both language are perfect , I comfortably work on both languages. 
+both language are perfect , Comfortably work on both tools. 
 But If you ask me which language to use for new project , after many years of using nodejs , I say go with golang !  
 
  😍️
