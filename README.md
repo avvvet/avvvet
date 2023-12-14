@@ -4,7 +4,6 @@ The product comes first , not the code !
 
 You have critical project , you want to market it fast , you want to make value , I am the right person. 
 
- 😍️
 - SAAS product 
 - microservice architecture 
 - peer to peer decentralized application 
