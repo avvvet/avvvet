@@ -2,7 +2,7 @@
 
 The product comes first , not the code ! 
 
-You have critical project , you want to market it fast , you want to make value , I am the right person. 
+You have critical project , you want to market it fast , you want to make value , I am happy to help. 
 
 - SAAS product 
 - microservice architecture 
