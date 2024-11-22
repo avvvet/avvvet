@@ -1,11 +1,14 @@
 ### Hi there 👋 Awet here !
 
-The product comes first , not the code ! 
+The product comes first ! 
 
 You have critical project , you want to market it fast , you want to make value , I am happy to help. 
 
-- SAAS product 
-- microservice architecture 
+- Golang
+- WebRTC
+- microservice architecture
+- Machine learning
+- linux OS
 - peer to peer decentralized application 
 
 
