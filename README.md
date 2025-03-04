@@ -18,6 +18,7 @@ backend engineering
 ✔ linux OS
 ✔ peer to peer decentralized application 
 ```
+```
 DevOps 
 ✔ Jenkins – Automate builds, tests, and deployments
 ✔ Kubernetes – Deploy and scale containerized applications
@@ -27,3 +28,4 @@ DevOps
 ✔ Cloud Platforms – AWS, GCP, DigitalOcean
 ✔ Terraform - Deploy using Infrastructure as Code (IaC) 
 ✔ Ansible - Automating configuration management
+```
