@@ -6,7 +6,7 @@ Versatile background spanning Software development, leadership, CI/CD deployment
 Possesses solid experience in software engineering and a keen understanding of the Software development life cycle and Infrastructure deployment.
 
 Lead software projects from initial client requirements to final product deployment in cloud environments. 
-
+```
 backend engineering
 ✔ Golang
 ✔ SvelteKit
@@ -17,7 +17,7 @@ backend engineering
 ✔ Machine learning
 ✔ linux OS
 ✔ peer to peer decentralized application 
-
+```
 DevOps 
 ✔ Jenkins – Automate builds, tests, and deployments
 ✔ Kubernetes – Deploy and scale containerized applications
