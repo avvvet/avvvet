@@ -1,28 +1,29 @@
 ### Hi there 👋 Awet here !
 
-The product comes first ! 
+Value-driven software engineer with over 10 years of experience in software development.
+Versatile background spanning Software development, leadership, CI/CD deployment, product design, DevOps, and Linux OS.
 
-You have critical project , you want to market it fast , you want to make value , I am happy to help. 
+Possesses solid experience in software engineering and a keen understanding of the Software development life cycle and Infrastructure deployment.
 
-- Golang
-- WebRTC
-- microservice architecture
-- Machine learning
-- linux OS
-- peer to peer decentralized application 
+Lead software projects from initial client requirements to final product deployment in cloud environments. 
 
+backend engineering
+✔ Golang
+✔ SvelteKit
+✔ Node.js
+✔ WebRTC
+✔ microservice architecture
+✔ PostgreSQL, MongoDB, redis, elasticsearch
+✔ Machine learning
+✔ linux OS
+✔ peer to peer decentralized application 
 
-<!--
-**avvvet/avvvet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+DevOps 
+✔ Jenkins – Automate builds, tests, and deployments
+✔ Kubernetes – Deploy and scale containerized applications
+✔ Helm – Package and manage Kubernetes applications easily
+✔ Docker – Containerize applications for a seamless workflow
+✔ GitHub Actions / GitLab CI – Alternative CI/CD automation setups
+✔ Cloud Platforms – AWS, GCP, DigitalOcean
+✔ Terraform - Deploy using Infrastructure as Code (IaC) 
+✔ Ansible - Automating configuration management
