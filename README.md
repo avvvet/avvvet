@@ -9,19 +9,19 @@ Lead software projects from initial client requirements to final product deploym
 ```
 backend engineering
 ✔ Golang
-✔ SvelteKit
 ✔ Node.js
 ✔ WebRTC
 ✔ microservice architecture
 ✔ PostgreSQL, MongoDB, redis, elasticsearch
 ✔ Machine learning
 ✔ linux OS
-✔ peer to peer decentralized application 
+✔ peer to peer decentralized application
+✔ SvelteKit (frontend framework, simplicity without sacrificing performance)
 ```
 ```
-DevOps 
-✔ Jenkins – Automate builds, tests, and deployments
+DevOps
 ✔ Kubernetes – Deploy and scale containerized applications
+✔ Jenkins CI/CID – Automate builds, tests, and deployments
 ✔ Helm – Package and manage Kubernetes applications easily
 ✔ Docker – Containerize applications for a seamless workflow
 ✔ GitHub Actions / GitLab CI – Alternative CI/CD automation setups
