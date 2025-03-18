@@ -1,6 +1,6 @@
-### Hi there 👋 Awet here !
+### Hi there 👋 Awet here ! 
 
-Value-driven software engineer with over 10 years of experience in software development.
+🇺🇲 Value-driven software engineer with over 10 years of experience in software development.
 Versatile background spanning Software development, leadership, CI/CD deployment, product design, DevOps, and Linux OS.
 
 Possesses solid experience in software engineering and a keen understanding of the Software development life cycle and Infrastructure deployment.
