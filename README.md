@@ -7,7 +7,7 @@ Possesses solid experience in software engineering and a keen understanding of t
 
 Lead software projects from initial client requirements to final product deployment in cloud environments. 
 ```
-backend engineering
+backend
  Golang
  Node.js
  WebRTC
@@ -16,7 +16,10 @@ backend engineering
  Machine learning
  linux OS
  peer to peer decentralized application
- SvelteKit (frontend framework, simplicity without sacrificing performance)
+```
+```
+ frontend framework
+ SvelteKit (simplicity without sacrificing performance)
 ```
 ```
 DevOps
